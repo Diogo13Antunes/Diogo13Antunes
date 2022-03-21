@@ -7,7 +7,7 @@ I am currently studying programming at 42 lisbon, wich has been an outstanding e
 
 ## Languages
 ![](https://img.shields.io/badge//-C-1?style=square&logo=c&logoColor=white&color=9cf)
-![](https://img.shields.io/static/-C-?&message=Makefile&color=informational)
+![](https://img.shields.io/static/v1?&message=Makefile&color=informational)
 
 ## Tools
 <div align="center">

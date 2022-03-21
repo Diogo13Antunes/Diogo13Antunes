@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hi there 👋 </h1>
+  <h1> Hi there :grinning: </h1>
 </div>
 
 My name is Diogo Antunes, I am 20 years old, I live at Ericeira, Lisbon.

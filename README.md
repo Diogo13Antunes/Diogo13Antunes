@@ -2,8 +2,8 @@
   <h1> Hi there 👋 </h1>
 </div>
 
-My name is Rafael Fernandes, I am 20 years old, I live at Sintra, Lisbon.
-I am currently studying programming at 42 lisbon, wich has been a great experience so far. You can check some of my projects in my repositories, enjoy your stay!
+My name is Diogo Antunes, I am 20 years old, I live at Ericeira, Lisbon.
+I am currently studying programming at 42 lisbon, wich has been an outstanding experience so far. You can check some of my projects in my repositories, enjoy your stay!
 
 ## Languages
 ![](https://img.shields.io/badge//-C-1?style=square&logo=c&logoColor=white&color=9cf)
@@ -21,10 +21,10 @@ I am currently studying programming at 42 lisbon, wich has been a great experien
 ## Statistics
 
 <div align="center">
-  <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael2sf&langs_count=3&theme=dracula"/>
+  <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo13Antunes&langs_count=3&theme=dracula"/>
   <img height="192px" src="https://github-readme-stats.vercel.app/api?username=Rafael2sf&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <br />
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Rafael2sf&&style=flat-square)
+![Profile views counter](https://komarev.com/ghpvc/?username=Diogo13Antunes&&style=flat-square)

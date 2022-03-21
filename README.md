@@ -10,7 +10,6 @@ I am currently studying programming at 42 lisbon, wich has been an outstanding e
 
 ## Tools
 <div align="center">
-  <img src=".github\logo-git.svg" height="42px" alt="GIT"/>
   <img src=".github\logo-github.svg" height="42px" alt="GITHUB"/>
   <img src=".github\logo-vscode.svg" height="42px" alt="VISUAL STUDIO CODE"/>  
   <img src=".github\logo-discord.svg" height="42px" alt="DISCORD"/>

@@ -21,7 +21,7 @@ I am currently studying programming at 42 lisbon, wich has been an outstanding e
 ## Statistics
 
 <div align="center">
-  <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo13Antunes&langs_count=3&theme=dracula"/>
+  <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo13Antunes&langs_count=3&theme=algolia"/>
   <img height="192px" src="https://github-readme-stats.vercel.app/api?username=Diogo13Antunes&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
 </div>
 

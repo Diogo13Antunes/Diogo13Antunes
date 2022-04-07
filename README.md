@@ -1,9 +1,10 @@
 <div align="center">
   <h1> Hi there :grinning: </h1>
 </div>
-
+<br>
 <img src="https://readme-typing-svg.herokuapp.com/?size=25&color=F70000&center=true&vCenter=true&lines=My+name+is+Diogo"></a>
-
+</p>
+<br>
 My name is Diogo Antunes, I am 20 years old, I live at Ericeira, Lisbon.
 I am currently studying programming at 42 lisbon, wich has been an outstanding experience so far. You can check some of my projects in my repositories, enjoy your stay!
 

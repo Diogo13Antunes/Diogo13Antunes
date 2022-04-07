@@ -3,7 +3,7 @@
 </div>
 <p align="center">
 <br>
-<img src="https://readme-typing-svg.herokuapp.com/?size=25&color=F70000&center=true&vCenter=true&lines=My+name+is+Diogo"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?size=25&color=2586F7&center=true&vCenter=true&lines=My+name+is+Diogo"></a>
 </p>
 <br>
 My name is Diogo Antunes, I am 20 years old, I live at Ericeira, Lisbon.

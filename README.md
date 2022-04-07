@@ -1,6 +1,7 @@
 <div align="center">
   <h1> Hi there :grinning: </h1>
 </div>
+<p align="center">
 <br>
 <img src="https://readme-typing-svg.herokuapp.com/?size=25&color=F70000&center=true&vCenter=true&lines=My+name+is+Diogo"></a>
 </p>

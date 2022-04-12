@@ -7,7 +7,7 @@ I am 20 years old, I live at Ericeira, Lisbon.
 I am currently studying programming at 42 lisbon, wich has been an outstanding experience so far. You can check some of my projects in my repositories, enjoy your stay!
 
 ## Languages
-![](https://img.shields.io/badge//-C-1?style=square&logo=c&logoColor=white&color=9cf)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## Tools
 <div align="center">

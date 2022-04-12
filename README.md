@@ -8,6 +8,7 @@ I am currently studying programming at 42 lisbon, wich has been an outstanding e
 
 ## Languages
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Tools
 <div align="center">

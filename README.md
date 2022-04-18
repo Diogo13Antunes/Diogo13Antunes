@@ -29,4 +29,4 @@ I am currently studying programming at 42 lisbon, wich has been an outstanding e
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Diogo13Antunes}/count.svg" alt="Diogo13Antunes :: Visitor's Count" /></p>

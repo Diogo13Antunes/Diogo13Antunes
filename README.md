@@ -27,6 +27,6 @@ I am currently studying programming at 42 lisbon, wich has been an outstanding e
   <img height="192px" src="https://github-readme-stats.vercel.app/api?username=Diogo13Antunes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
 
-<br />
+<h4 align="center">Visitor's count :eyes:</h4>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Diogo13Antunes&&style=flat-square)
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>

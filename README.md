@@ -20,6 +20,12 @@ I am currently studying programming at 42 lisbon, wich has been an outstanding e
   <img src=".github\logo-bash.svg" height="42px" alt="BASH"/>
 </div >
 
+## 42 Student
+
+div align="center">
+  ![](https://badge42.vercel.app/api/v2/cl6q6x16j01550gkyytpo20fy/stats?cursusId=21&coalitionId=211)
+</div>
+
 ## Statistics
 
 <div align="center">

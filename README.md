@@ -24,8 +24,6 @@ I am currently studying programming at 42 lisbon, wich has been an outstanding e
 
 <div align="center">
   <a href="https://github.com/benmaia">
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6493qh5000609mfcn9vf869/stats?cursusId=21&coalitionId=111" alt="bmiguel-'s 42 stats" height="154em"/></a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benmaia&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 
 ## Statistics

@@ -22,9 +22,7 @@ I am currently studying programming at 42 Lisboa, wich has been an outstanding e
 
 ## 42 Student
 
-<div align="center">
-  ![](https://badge42.vercel.app/api/v2/cl6q6x16j01550gkyytpo20fy/stats?cursusId=21&coalitionId=undefined)
-</div >
+![](https://badge42.vercel.app/api/v2/cl6q6x16j01550gkyytpo20fy/stats?cursusId=21&coalitionId=undefined)
 
 ## Statistics
 

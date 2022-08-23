@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?size=25&color=2586F7&center=true&vCenter=true&lines=My+name+is+Diogo"></a>
 </p>
 <br>
-I born in 2002, I live at Ericeira, Lisbon.
+I was born in 2002, I live at Ericeira, Lisbon.
 I am currently studying programming at 42 Lisboa, wich has been an outstanding experience so far. You can check some of my projects in my repositories, enjoy your stay!
 
 ## Languages

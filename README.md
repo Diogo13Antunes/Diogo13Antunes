@@ -7,9 +7,7 @@ I was born in 2002, I live at Ericeira, Lisbon.
 I am currently studying programming at 42 Lisboa, wich has been an outstanding experience so far. You can check some of my projects in my repositories, enjoy your stay!
 
 ## Languages
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python&theme=dark)](https://skillicons.dev)
 
 ## Tools
 <div align="center">

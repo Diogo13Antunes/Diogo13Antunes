@@ -10,11 +10,7 @@ I am currently studying programming at 42 Lisboa, wich has been an outstanding e
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,python&theme=dark)](https://skillicons.dev)
 
 ## Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,discord,vscode,vim" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=github,discord,vscode,vim&theme=dark)](https://skillicons.dev)
 
 ## 42 Student
 

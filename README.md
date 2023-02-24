@@ -7,16 +7,14 @@ I was born in 2002, I live at Ericeira, Lisbon.
 I am currently studying programming at 42 Lisboa, wich has been an outstanding experience so far. You can check some of my projects in my repositories, enjoy your stay!
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,python&theme=dark)](https://skillicons.dev)
 
 ## Tools
-<div align="center">
-  <img src=".github\logo-github.svg" height="42px" alt="GITHUB"/>
-  <img src=".github\logo-vscode.svg" height="42px" alt="VISUAL STUDIO CODE"/>  
-  <img src=".github\logo-discord.svg" height="42px" alt="DISCORD"/>
-  <img src=".github\logo-slack.svg" height="42px" alt="SLACK"/>
-  <img src=".github\logo-bash.svg" height="42px" alt="BASH"/>
-</div >
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,discord,vscode,vim" />
+  </a>
+</p>
 
 ## 42 Student
 

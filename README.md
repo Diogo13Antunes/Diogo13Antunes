@@ -13,11 +13,9 @@ I am currently studying programming at 42 Lisboa, wich has been an outstanding e
 [![My Skills](https://skillicons.dev/icons?i=github,discord,vscode,vim&theme=dark)](https://skillicons.dev)
 
 ## 42 Student
-
 ![](https://badge42.vercel.app/api/v2/cl6q6x16j01550gkyytpo20fy/stats?cursusId=21&coalitionId=undefined)
 
 ## Statistics
-
 <div align="center">
   <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo13Antunes&langs_count=3&theme=algolia"/>
   <img height="192px" src="https://github-readme-stats.vercel.app/api?username=Diogo13Antunes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

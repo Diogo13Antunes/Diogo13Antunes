@@ -7,7 +7,7 @@ I was born in 2002, I live at Ericeira, Lisbon.
 I am currently studying programming at 42 Lisboa, wich has been an outstanding experience so far. You can check some of my projects in my repositories, enjoy your stay!
 
 ## 42 Student
-[![dcandeia's 42 stats](https://badge.mediaplus.ma/greenbinary/dcandeia?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/dcandeia?1337Badge=off&UM6P=off" alt="dcandeia's 42 stats" /></a>
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,python&theme=dark)](https://skillicons.dev)

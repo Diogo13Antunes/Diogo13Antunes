@@ -23,4 +23,7 @@ I am currently studying programming at 42 Lisboa, wich has been an outstanding e
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
+![GitHub Snake Light](https://github.com/Diogo13Antunes/Diogo13Antunes/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/Diogo13Antunes/Diogo13Antunes/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 <p align="center"><img src="https://profile-counter.glitch.me/{Diogo13Antunes}/count.svg" alt="Diogo13Antunes :: Visitor's Count" /></p>

@@ -19,6 +19,7 @@ I am currently studying programming at 42 Lisboa, wich has been an outstanding e
 <div align="center">
   <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo13Antunes&langs_count=3&theme=algolia"/>
   <img height="192px" src="https://github-readme-stats.vercel.app/api?username=Diogo13Antunes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="192px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael2sf&&theme=algolia" alt="Diogo13Antunes"/>  
 </div>
 
 <h4 align="center">Visitor's count :eyes:</h4>

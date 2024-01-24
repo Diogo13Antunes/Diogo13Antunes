@@ -10,7 +10,7 @@ I am currently studying programming at 42 Lisboa, wich has been an outstanding e
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/dcandeia?1337Badge=off&UM6P=off" alt="dcandeia's 42 stats" /></a>
 
 ## Languages
-![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,python&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,python,html,css,js,md&theme=dark)
 
 ## Tools
 ![My Skills](https://skillicons.dev/icons?i=github,discord,vscode,vim&theme=dark)

@@ -1,6 +1,6 @@
 <p align="center">
 <br>
-<img src="https://readme-typing-svg.herokuapp.com/?size=25&color=2586F7&center=true&vCenter=true&lines=My+name+is+Diogo"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?size=25&color=2586F7&center=true&vCenter=true&lines=Welcome+to+my+World"></a>
 </p>
 <br>
 I was born in 2002, I live at Ericeira, Lisbon.

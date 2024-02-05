@@ -1,6 +1,7 @@
 <p align="center">
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D718&background=FF000000&vCenter=true&random=false&width=435&lines=Welcome+to+my+World;Enjoy+your+Stay" alt="Typing SVG" /></a><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D718&background=FF000000&center=true&random=false&width=435&lines=Welcome+to+my+World;Enjoy+your+Stay" alt="Typing SVG" /></a>
+<br>
 I was born in 2002, I live at Ericeira, Lisbon.
 I am currently studying programming at 42 Lisboa, wich has been an outstanding experience so far. You can check some of my projects in my repositories, enjoy your stay!
 

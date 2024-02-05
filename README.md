@@ -14,5 +14,8 @@ I am currently studying programming at 42 Lisboa, wich has been an outstanding e
 ## Tools
 ![My Skills](https://skillicons.dev/icons?i=github,discord,vscode,vim&theme=dark)
 
+## Stats
+<img src="https://myreadme.vercel.app/api/embed/Diogo13Antunes?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Diogo13Antunes}/count.svg" alt="Diogo13Antunes :: Visitor's Count" /></p>

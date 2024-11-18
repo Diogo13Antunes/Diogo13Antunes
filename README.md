@@ -14,5 +14,17 @@ I am currently studying programming at 42 Lisboa, wich has been an outstanding e
 ## Tools
 ![My Skills](https://skillicons.dev/icons?i=github,discord,vscode,vim&theme=dark)
 
+## Contact Me
+
+<p>
+  <a href="mailto:diogo.candeias.antunes@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+  &nbsp;
+  <a href="www.linkedin.com/in/diogo-antunes-04a615339">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+</p>
+
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Diogo13Antunes}/count.svg" alt="Diogo13Antunes :: Visitor's Count" /></p>

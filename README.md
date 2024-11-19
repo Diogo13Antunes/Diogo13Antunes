@@ -69,7 +69,7 @@ I am a software developer passionate about technology. I studied at 42 Lisboa, w
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
   &nbsp;
-  <a href="www.linkedin.com/in/diogo-antunes-04a615339">
+  <a href="https://www.linkedin.com/in/diogo-antunes-04a615339">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
   &nbsp;

@@ -8,7 +8,7 @@ I am a software developer passionate about technology. I studied at 42 Lisboa, w
 ## 42 Cursus
 <a href="https://github.com/Diogo13Antunes/42Cursus"><img src="https://badge.mediaplus.ma/darkblue/dcandeia?1337Badge=off&UM6P=off" alt="dcandeia's 42 stats" /></a>
 
-## Languages
+## Skills
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=bash&theme=dark" />
@@ -44,6 +44,15 @@ I am a software developer passionate about technology. I studied at 42 Lisboa, w
   &nbsp;
   <a>
     <img src="https://skillicons.dev/icons?i=django&theme=dark" />
+  </a>
+</p>
+<p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+  </a>
+  &nbsp;
+  <a>
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" />
   </a>
 </p>
 
